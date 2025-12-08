@@ -1,0 +1,88 @@
+{
+  "cities": [
+    {
+      "id": "4aec",
+      "cityName": "Souvigny-en-Sologne",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-12-07T12:10:24.373Z",
+      "notes": "",
+      "position": {
+        "lat": "47.635783590864854",
+        "lng": "2.1533203125000004"
+      }
+    },
+    {
+      "id": "6bff",
+      "cityName": "Les Tourreilles",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-12-07T13:37:37.952Z",
+      "notes": "",
+      "position": {
+        "lat": "43.100982876188546",
+        "lng": "0.5273437500000001"
+      }
+    },
+    {
+      "id": "6e9e",
+      "cityName": "Montijo",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2025-12-07T13:39:28.757Z",
+      "notes": "",
+      "position": {
+        "lat": "38.75408327579141",
+        "lng": "-8.745117187500002"
+      }
+    },
+    {
+      "id": "9a95",
+      "cityName": "Denmark",
+      "country": "Denmark",
+      "emoji": "🇩🇰",
+      "date": "2025-12-07T13:58:12.219Z",
+      "notes": "",
+      "position": {
+        "lat": "55.65279803318956",
+        "lng": "10.546875000000002"
+      }
+    },
+    {
+      "id": "015f",
+      "cityName": "Hammam Chott",
+      "country": "Tunisia",
+      "emoji": "🇹🇳",
+      "date": "2025-12-08T11:20:32.756Z",
+      "notes": "",
+      "position": {
+        "lat": "36.66841891894786",
+        "lng": "10.371093750000002"
+      }
+    },
+    {
+      "id": "336f",
+      "cityName": "Pina de Ebro",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-12-08T12:08:56.740Z",
+      "notes": "",
+      "position": {
+        "lat": "41.47566020027821",
+        "lng": "-0.21972656250000003"
+      }
+    },
+    {
+      "id": "229f",
+      "cityName": "Velilla de la Sierra",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-12-08T12:22:15.576Z",
+      "notes": "",
+      "position": {
+        "lat": "41.82045509614034",
+        "lng": "-2.4169921875000004"
+      }
+    }
+  ]
+}
